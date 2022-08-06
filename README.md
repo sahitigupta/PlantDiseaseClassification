@@ -1,7 +1,6 @@
 # PlantDiseaseClassification
 
 #### The project detects the plant diseases and classify its severity accurately using various machine learning and deep learning algorithms to facilitate remedial measures well in time to improve production.  
-<br />
 
 #### The steps to execute the project are as follows:  
 1. Have a Google account with minimum 10GB of free space in Google Drive.  
